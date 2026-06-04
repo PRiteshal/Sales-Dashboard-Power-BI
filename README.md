@@ -26,7 +26,8 @@ online sales data across multiple regions of India.
 | `dark-gradient.jpg` | Dashboard background image |
 
 ## 📸 Dashboard Preview
-*(Add a screenshot of your dashboard here)*
+[Power BI Dashboard.pdf](https://github.com/user-attachments/files/28598365/Power.BI.Dashboard.pdf)
+
 
 ## 🚀 How to Use
 1. Download the `.pbix` file
